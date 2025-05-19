@@ -9,3 +9,7 @@ Measuring distances within 1 meter(with Advanced-led on)
 Measuring distances over 1 meter(with Advanced)
 ![over1m(advanced)](https://github.com/user-attachments/assets/ea976689-e9ea-4983-9c99-cd5932bf6223)
 ![over1m_monitor(advanced)](https://github.com/user-attachments/assets/470c575b-be32-4678-bd4b-447e7c9d8631)
+
+output
+![ouputchart](https://github.com/user-attachments/assets/9464573c-a618-4670-8d6c-0d14a048cf4f)
+![ouputtable](https://github.com/user-attachments/assets/17574f38-fae2-47bd-8044-849bb7d3205e)
