@@ -13,3 +13,17 @@ Measuring distances over 1 meter(with Advanced)
 output
 ![ouputchart](https://github.com/user-attachments/assets/9464573c-a618-4670-8d6c-0d14a048cf4f)
 ![ouputtable](https://github.com/user-attachments/assets/17574f38-fae2-47bd-8044-849bb7d3205e)
+
+## Demo Videos
+[Watch HW07(dis=1.2m).mp4](HW07(dis=1.2m).mp4)
+
+[Watch HW07(dis=1m).mp4](HW07(dis=1m).mp4)
+
+[Watch HW07(dis=70cm).mp4](HW07(dis=70cm).mp4)
+
+[Watch HW07(dis=40cm).mp4](HW07(dis=40cm).mp4)
+
+## Source Codes
+[View HW07_Server.ino](HW07_Server.ino)
+
+[View HW07_Client.ino](HW07_Client.ino)
